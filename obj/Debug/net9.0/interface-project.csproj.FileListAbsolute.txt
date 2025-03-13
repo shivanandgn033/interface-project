@@ -1,0 +1,15 @@
+E:\GitHub Project\dotnetprojects\web\interface-project\bin\Debug\net9.0\interface-project.exe
+E:\GitHub Project\dotnetprojects\web\interface-project\bin\Debug\net9.0\interface-project.deps.json
+E:\GitHub Project\dotnetprojects\web\interface-project\bin\Debug\net9.0\interface-project.runtimeconfig.json
+E:\GitHub Project\dotnetprojects\web\interface-project\bin\Debug\net9.0\interface-project.dll
+E:\GitHub Project\dotnetprojects\web\interface-project\bin\Debug\net9.0\interface-project.pdb
+E:\GitHub Project\dotnetprojects\web\interface-project\obj\Debug\net9.0\interface-project.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub Project\dotnetprojects\web\interface-project\obj\Debug\net9.0\interface-project.AssemblyInfoInputs.cache
+E:\GitHub Project\dotnetprojects\web\interface-project\obj\Debug\net9.0\interface-project.AssemblyInfo.cs
+E:\GitHub Project\dotnetprojects\web\interface-project\obj\Debug\net9.0\interface-project.csproj.CoreCompileInputs.cache
+E:\GitHub Project\dotnetprojects\web\interface-project\obj\Debug\net9.0\interface-project.sourcelink.json
+E:\GitHub Project\dotnetprojects\web\interface-project\obj\Debug\net9.0\interface-project.dll
+E:\GitHub Project\dotnetprojects\web\interface-project\obj\Debug\net9.0\refint\interface-project.dll
+E:\GitHub Project\dotnetprojects\web\interface-project\obj\Debug\net9.0\interface-project.pdb
+E:\GitHub Project\dotnetprojects\web\interface-project\obj\Debug\net9.0\interface-project.genruntimeconfig.cache
+E:\GitHub Project\dotnetprojects\web\interface-project\obj\Debug\net9.0\ref\interface-project.dll
