@@ -1,6 +1,21 @@
 ﻿using System;
 
-// Define the interface
+
+
+        // Create instances of classes that implement IDrawable
+        IDrawable circle = new Circle(5, "Red");
+        IDrawable rectangle = new Rectangle(10, 7, "Blue");
+
+        // Call the Draw method through the interface reference
+        circle.Draw();      // Output: Drawing a circle with radius 5 and color Red
+        rectangle.Draw();   // Output: Drawing a rectangle with width 10, height 7, and color Blue
+
+        Console.WriteLine($"Circle Color: {circle.Color}");   // Output: Circle Color: Red
+        Console.WriteLine($"Rectangle Color: {rectangle.Color}"); // Output: Rectangle Color: Blue
+
+
+
+        // Define the interface
 public interface IDrawable
 {
     // Method signature for drawing
@@ -50,19 +65,3 @@ public class Rectangle : IDrawable
     }
 }
 
-public class Example
-{
-    public static void Main(stringargs)
-    {
-        // Create instances of classes that implement IDrawable
-        IDrawable circle = new Circle(5, "Red");
-        IDrawable rectangle = new Rectangle(10, 7, "Blue");
-
-        // Call the Draw method through the interface reference
-        circle.Draw();      // Output: Drawing a circle with radius 5 and color Red
-        rectangle.Draw();   // Output: Drawing a rectangle with width 10, height 7, and color Blue
-
-        Console.WriteLine($"Circle Color: {circle.Color}");   // Output: Circle Color: Red
-        Console.WriteLine($"Rectangle Color: {rectangle.Color}"); // Output: Rectangle Color: Blue
-    }
-}
